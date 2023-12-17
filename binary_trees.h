@@ -1,5 +1,6 @@
 #ifndef HEADER_
 #define HEADER_
+#include <stddef.h>
 /**
  * struct binary_tree_s - Binary tree node
  * @n: Integer stored in the node
